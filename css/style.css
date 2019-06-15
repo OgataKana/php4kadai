@@ -1,0 +1,25 @@
+.singUpbody{
+    width: 500px;
+    height: ;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    margin-top: 50px;
+
+}
+.login{
+    font-size: 25px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+
+}
+.com{
+    font-size: 20px;
+
+}
+.singUp{
+    font-size: 20px;
+}
